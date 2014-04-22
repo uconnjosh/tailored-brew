@@ -1,0 +1,9 @@
+ development:
+   adapter: postgresql
+   database: tailored_brew_development
+
+ test:
+   adapter: postgresql
+   database: tailored_brew_test
+
+   
